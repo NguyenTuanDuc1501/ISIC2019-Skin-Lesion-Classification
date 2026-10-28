@@ -29,6 +29,11 @@ output/
 # Heavy local training experiments folder
 10_phuongan_ResNet50_train_thucnghiem/
 
+# MS Office temp lock files
+~$*.pptx
+~$*.docx
+~$*.xlsx
+
 # OS files
 .DS_Store
 Thumbs.db
