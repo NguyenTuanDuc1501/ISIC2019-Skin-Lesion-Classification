@@ -1,0 +1,287 @@
+﻿scope,stratum,stratum_vi,field,value,count,denominator,count_over_denominator
+overall,all,all,hair,có,25,52,25/52
+overall,all,all,hair,không,27,52,27/52
+overall,all,all,hair,không chắc,0,52,0/52
+overall,all,all,ruler_or_ink,có,15,52,15/52
+overall,all,all,ruler_or_ink,không,36,52,36/52
+overall,all,all,ruler_or_ink,không chắc,1,52,1/52
+overall,all,all,black_border_or_vignette,có,21,52,21/52
+overall,all,all,black_border_or_vignette,không,31,52,31/52
+overall,all,all,black_border_or_vignette,không chắc,0,52,0/52
+overall,all,all,glare_or_reflection,có,0,52,0/52
+overall,all,all,glare_or_reflection,không,48,52,48/52
+overall,all,all,glare_or_reflection,không chắc,4,52,4/52
+overall,all,all,sharpness,nét,52,52,52/52
+overall,all,all,sharpness,hơi mờ,0,52,0/52
+overall,all,all,sharpness,mờ,0,52,0/52
+overall,all,all,sharpness,không chắc,0,52,0/52
+overall,all,all,lesion_touches_edge,có,1,52,1/52
+overall,all,all,lesion_touches_edge,không,50,52,50/52
+overall,all,all,lesion_touches_edge,không chắc,1,52,1/52
+overall,all,all,aspect_distortion_after_resize,có,22,52,22/52
+overall,all,all,aspect_distortion_after_resize,không,30,52,30/52
+overall,all,all,aspect_distortion_after_resize,không chắc,0,52,0/52
+class,MEL,MEL,hair,có,3,7,3/7
+class,MEL,MEL,hair,không,4,7,4/7
+class,MEL,MEL,hair,không chắc,0,7,0/7
+class,MEL,MEL,ruler_or_ink,có,2,7,2/7
+class,MEL,MEL,ruler_or_ink,không,5,7,5/7
+class,MEL,MEL,ruler_or_ink,không chắc,0,7,0/7
+class,MEL,MEL,black_border_or_vignette,có,1,7,1/7
+class,MEL,MEL,black_border_or_vignette,không,6,7,6/7
+class,MEL,MEL,black_border_or_vignette,không chắc,0,7,0/7
+class,MEL,MEL,glare_or_reflection,có,0,7,0/7
+class,MEL,MEL,glare_or_reflection,không,7,7,7/7
+class,MEL,MEL,glare_or_reflection,không chắc,0,7,0/7
+class,MEL,MEL,sharpness,nét,7,7,7/7
+class,MEL,MEL,sharpness,hơi mờ,0,7,0/7
+class,MEL,MEL,sharpness,mờ,0,7,0/7
+class,MEL,MEL,sharpness,không chắc,0,7,0/7
+class,MEL,MEL,lesion_touches_edge,có,0,7,0/7
+class,MEL,MEL,lesion_touches_edge,không,6,7,6/7
+class,MEL,MEL,lesion_touches_edge,không chắc,1,7,1/7
+class,MEL,MEL,aspect_distortion_after_resize,có,2,7,2/7
+class,MEL,MEL,aspect_distortion_after_resize,không,5,7,5/7
+class,MEL,MEL,aspect_distortion_after_resize,không chắc,0,7,0/7
+class,NV,NV,hair,có,4,7,4/7
+class,NV,NV,hair,không,3,7,3/7
+class,NV,NV,hair,không chắc,0,7,0/7
+class,NV,NV,ruler_or_ink,có,0,7,0/7
+class,NV,NV,ruler_or_ink,không,7,7,7/7
+class,NV,NV,ruler_or_ink,không chắc,0,7,0/7
+class,NV,NV,black_border_or_vignette,có,2,7,2/7
+class,NV,NV,black_border_or_vignette,không,5,7,5/7
+class,NV,NV,black_border_or_vignette,không chắc,0,7,0/7
+class,NV,NV,glare_or_reflection,có,0,7,0/7
+class,NV,NV,glare_or_reflection,không,4,7,4/7
+class,NV,NV,glare_or_reflection,không chắc,3,7,3/7
+class,NV,NV,sharpness,nét,7,7,7/7
+class,NV,NV,sharpness,hơi mờ,0,7,0/7
+class,NV,NV,sharpness,mờ,0,7,0/7
+class,NV,NV,sharpness,không chắc,0,7,0/7
+class,NV,NV,lesion_touches_edge,có,1,7,1/7
+class,NV,NV,lesion_touches_edge,không,6,7,6/7
+class,NV,NV,lesion_touches_edge,không chắc,0,7,0/7
+class,NV,NV,aspect_distortion_after_resize,có,5,7,5/7
+class,NV,NV,aspect_distortion_after_resize,không,2,7,2/7
+class,NV,NV,aspect_distortion_after_resize,không chắc,0,7,0/7
+class,BCC,BCC,hair,có,3,7,3/7
+class,BCC,BCC,hair,không,4,7,4/7
+class,BCC,BCC,hair,không chắc,0,7,0/7
+class,BCC,BCC,ruler_or_ink,có,4,7,4/7
+class,BCC,BCC,ruler_or_ink,không,3,7,3/7
+class,BCC,BCC,ruler_or_ink,không chắc,0,7,0/7
+class,BCC,BCC,black_border_or_vignette,có,4,7,4/7
+class,BCC,BCC,black_border_or_vignette,không,3,7,3/7
+class,BCC,BCC,black_border_or_vignette,không chắc,0,7,0/7
+class,BCC,BCC,glare_or_reflection,có,0,7,0/7
+class,BCC,BCC,glare_or_reflection,không,7,7,7/7
+class,BCC,BCC,glare_or_reflection,không chắc,0,7,0/7
+class,BCC,BCC,sharpness,nét,7,7,7/7
+class,BCC,BCC,sharpness,hơi mờ,0,7,0/7
+class,BCC,BCC,sharpness,mờ,0,7,0/7
+class,BCC,BCC,sharpness,không chắc,0,7,0/7
+class,BCC,BCC,lesion_touches_edge,có,0,7,0/7
+class,BCC,BCC,lesion_touches_edge,không,7,7,7/7
+class,BCC,BCC,lesion_touches_edge,không chắc,0,7,0/7
+class,BCC,BCC,aspect_distortion_after_resize,có,2,7,2/7
+class,BCC,BCC,aspect_distortion_after_resize,không,5,7,5/7
+class,BCC,BCC,aspect_distortion_after_resize,không chắc,0,7,0/7
+class,AK,AK,hair,có,2,7,2/7
+class,AK,AK,hair,không,5,7,5/7
+class,AK,AK,hair,không chắc,0,7,0/7
+class,AK,AK,ruler_or_ink,có,1,7,1/7
+class,AK,AK,ruler_or_ink,không,5,7,5/7
+class,AK,AK,ruler_or_ink,không chắc,1,7,1/7
+class,AK,AK,black_border_or_vignette,có,5,7,5/7
+class,AK,AK,black_border_or_vignette,không,2,7,2/7
+class,AK,AK,black_border_or_vignette,không chắc,0,7,0/7
+class,AK,AK,glare_or_reflection,có,0,7,0/7
+class,AK,AK,glare_or_reflection,không,7,7,7/7
+class,AK,AK,glare_or_reflection,không chắc,0,7,0/7
+class,AK,AK,sharpness,nét,7,7,7/7
+class,AK,AK,sharpness,hơi mờ,0,7,0/7
+class,AK,AK,sharpness,mờ,0,7,0/7
+class,AK,AK,sharpness,không chắc,0,7,0/7
+class,AK,AK,lesion_touches_edge,có,0,7,0/7
+class,AK,AK,lesion_touches_edge,không,7,7,7/7
+class,AK,AK,lesion_touches_edge,không chắc,0,7,0/7
+class,AK,AK,aspect_distortion_after_resize,có,1,7,1/7
+class,AK,AK,aspect_distortion_after_resize,không,6,7,6/7
+class,AK,AK,aspect_distortion_after_resize,không chắc,0,7,0/7
+class,BKL,BKL,hair,có,5,7,5/7
+class,BKL,BKL,hair,không,2,7,2/7
+class,BKL,BKL,hair,không chắc,0,7,0/7
+class,BKL,BKL,ruler_or_ink,có,2,7,2/7
+class,BKL,BKL,ruler_or_ink,không,5,7,5/7
+class,BKL,BKL,ruler_or_ink,không chắc,0,7,0/7
+class,BKL,BKL,black_border_or_vignette,có,3,7,3/7
+class,BKL,BKL,black_border_or_vignette,không,4,7,4/7
+class,BKL,BKL,black_border_or_vignette,không chắc,0,7,0/7
+class,BKL,BKL,glare_or_reflection,có,0,7,0/7
+class,BKL,BKL,glare_or_reflection,không,7,7,7/7
+class,BKL,BKL,glare_or_reflection,không chắc,0,7,0/7
+class,BKL,BKL,sharpness,nét,7,7,7/7
+class,BKL,BKL,sharpness,hơi mờ,0,7,0/7
+class,BKL,BKL,sharpness,mờ,0,7,0/7
+class,BKL,BKL,sharpness,không chắc,0,7,0/7
+class,BKL,BKL,lesion_touches_edge,có,0,7,0/7
+class,BKL,BKL,lesion_touches_edge,không,7,7,7/7
+class,BKL,BKL,lesion_touches_edge,không chắc,0,7,0/7
+class,BKL,BKL,aspect_distortion_after_resize,có,2,7,2/7
+class,BKL,BKL,aspect_distortion_after_resize,không,5,7,5/7
+class,BKL,BKL,aspect_distortion_after_resize,không chắc,0,7,0/7
+class,DF,DF,hair,có,4,6,4/6
+class,DF,DF,hair,không,2,6,2/6
+class,DF,DF,hair,không chắc,0,6,0/6
+class,DF,DF,ruler_or_ink,có,4,6,4/6
+class,DF,DF,ruler_or_ink,không,2,6,2/6
+class,DF,DF,ruler_or_ink,không chắc,0,6,0/6
+class,DF,DF,black_border_or_vignette,có,3,6,3/6
+class,DF,DF,black_border_or_vignette,không,3,6,3/6
+class,DF,DF,black_border_or_vignette,không chắc,0,6,0/6
+class,DF,DF,glare_or_reflection,có,0,6,0/6
+class,DF,DF,glare_or_reflection,không,6,6,6/6
+class,DF,DF,glare_or_reflection,không chắc,0,6,0/6
+class,DF,DF,sharpness,nét,6,6,6/6
+class,DF,DF,sharpness,hơi mờ,0,6,0/6
+class,DF,DF,sharpness,mờ,0,6,0/6
+class,DF,DF,sharpness,không chắc,0,6,0/6
+class,DF,DF,lesion_touches_edge,có,0,6,0/6
+class,DF,DF,lesion_touches_edge,không,6,6,6/6
+class,DF,DF,lesion_touches_edge,không chắc,0,6,0/6
+class,DF,DF,aspect_distortion_after_resize,có,4,6,4/6
+class,DF,DF,aspect_distortion_after_resize,không,2,6,2/6
+class,DF,DF,aspect_distortion_after_resize,không chắc,0,6,0/6
+class,VASC,VASC,hair,có,2,4,2/4
+class,VASC,VASC,hair,không,2,4,2/4
+class,VASC,VASC,hair,không chắc,0,4,0/4
+class,VASC,VASC,ruler_or_ink,có,0,4,0/4
+class,VASC,VASC,ruler_or_ink,không,4,4,4/4
+class,VASC,VASC,ruler_or_ink,không chắc,0,4,0/4
+class,VASC,VASC,black_border_or_vignette,có,0,4,0/4
+class,VASC,VASC,black_border_or_vignette,không,4,4,4/4
+class,VASC,VASC,black_border_or_vignette,không chắc,0,4,0/4
+class,VASC,VASC,glare_or_reflection,có,0,4,0/4
+class,VASC,VASC,glare_or_reflection,không,3,4,3/4
+class,VASC,VASC,glare_or_reflection,không chắc,1,4,1/4
+class,VASC,VASC,sharpness,nét,4,4,4/4
+class,VASC,VASC,sharpness,hơi mờ,0,4,0/4
+class,VASC,VASC,sharpness,mờ,0,4,0/4
+class,VASC,VASC,sharpness,không chắc,0,4,0/4
+class,VASC,VASC,lesion_touches_edge,có,0,4,0/4
+class,VASC,VASC,lesion_touches_edge,không,4,4,4/4
+class,VASC,VASC,lesion_touches_edge,không chắc,0,4,0/4
+class,VASC,VASC,aspect_distortion_after_resize,có,3,4,3/4
+class,VASC,VASC,aspect_distortion_after_resize,không,1,4,1/4
+class,VASC,VASC,aspect_distortion_after_resize,không chắc,0,4,0/4
+class,SCC,SCC,hair,có,2,7,2/7
+class,SCC,SCC,hair,không,5,7,5/7
+class,SCC,SCC,hair,không chắc,0,7,0/7
+class,SCC,SCC,ruler_or_ink,có,2,7,2/7
+class,SCC,SCC,ruler_or_ink,không,5,7,5/7
+class,SCC,SCC,ruler_or_ink,không chắc,0,7,0/7
+class,SCC,SCC,black_border_or_vignette,có,3,7,3/7
+class,SCC,SCC,black_border_or_vignette,không,4,7,4/7
+class,SCC,SCC,black_border_or_vignette,không chắc,0,7,0/7
+class,SCC,SCC,glare_or_reflection,có,0,7,0/7
+class,SCC,SCC,glare_or_reflection,không,7,7,7/7
+class,SCC,SCC,glare_or_reflection,không chắc,0,7,0/7
+class,SCC,SCC,sharpness,nét,7,7,7/7
+class,SCC,SCC,sharpness,hơi mờ,0,7,0/7
+class,SCC,SCC,sharpness,mờ,0,7,0/7
+class,SCC,SCC,sharpness,không chắc,0,7,0/7
+class,SCC,SCC,lesion_touches_edge,có,0,7,0/7
+class,SCC,SCC,lesion_touches_edge,không,7,7,7/7
+class,SCC,SCC,lesion_touches_edge,không chắc,0,7,0/7
+class,SCC,SCC,aspect_distortion_after_resize,có,3,7,3/7
+class,SCC,SCC,aspect_distortion_after_resize,không,4,7,4/7
+class,SCC,SCC,aspect_distortion_after_resize,không chắc,0,7,0/7
+transition,correct_to_wrong,B00 đúng / T02B sai,hair,có,6,15,6/15
+transition,correct_to_wrong,B00 đúng / T02B sai,hair,không,9,15,9/15
+transition,correct_to_wrong,B00 đúng / T02B sai,hair,không chắc,0,15,0/15
+transition,correct_to_wrong,B00 đúng / T02B sai,ruler_or_ink,có,2,15,2/15
+transition,correct_to_wrong,B00 đúng / T02B sai,ruler_or_ink,không,13,15,13/15
+transition,correct_to_wrong,B00 đúng / T02B sai,ruler_or_ink,không chắc,0,15,0/15
+transition,correct_to_wrong,B00 đúng / T02B sai,black_border_or_vignette,có,4,15,4/15
+transition,correct_to_wrong,B00 đúng / T02B sai,black_border_or_vignette,không,11,15,11/15
+transition,correct_to_wrong,B00 đúng / T02B sai,black_border_or_vignette,không chắc,0,15,0/15
+transition,correct_to_wrong,B00 đúng / T02B sai,glare_or_reflection,có,0,15,0/15
+transition,correct_to_wrong,B00 đúng / T02B sai,glare_or_reflection,không,14,15,14/15
+transition,correct_to_wrong,B00 đúng / T02B sai,glare_or_reflection,không chắc,1,15,1/15
+transition,correct_to_wrong,B00 đúng / T02B sai,sharpness,nét,15,15,15/15
+transition,correct_to_wrong,B00 đúng / T02B sai,sharpness,hơi mờ,0,15,0/15
+transition,correct_to_wrong,B00 đúng / T02B sai,sharpness,mờ,0,15,0/15
+transition,correct_to_wrong,B00 đúng / T02B sai,sharpness,không chắc,0,15,0/15
+transition,correct_to_wrong,B00 đúng / T02B sai,lesion_touches_edge,có,1,15,1/15
+transition,correct_to_wrong,B00 đúng / T02B sai,lesion_touches_edge,không,14,15,14/15
+transition,correct_to_wrong,B00 đúng / T02B sai,lesion_touches_edge,không chắc,0,15,0/15
+transition,correct_to_wrong,B00 đúng / T02B sai,aspect_distortion_after_resize,có,5,15,5/15
+transition,correct_to_wrong,B00 đúng / T02B sai,aspect_distortion_after_resize,không,10,15,10/15
+transition,correct_to_wrong,B00 đúng / T02B sai,aspect_distortion_after_resize,không chắc,0,15,0/15
+transition,wrong_to_correct,B00 sai / T02B đúng,hair,có,11,15,11/15
+transition,wrong_to_correct,B00 sai / T02B đúng,hair,không,4,15,4/15
+transition,wrong_to_correct,B00 sai / T02B đúng,hair,không chắc,0,15,0/15
+transition,wrong_to_correct,B00 sai / T02B đúng,ruler_or_ink,có,7,15,7/15
+transition,wrong_to_correct,B00 sai / T02B đúng,ruler_or_ink,không,8,15,8/15
+transition,wrong_to_correct,B00 sai / T02B đúng,ruler_or_ink,không chắc,0,15,0/15
+transition,wrong_to_correct,B00 sai / T02B đúng,black_border_or_vignette,có,5,15,5/15
+transition,wrong_to_correct,B00 sai / T02B đúng,black_border_or_vignette,không,10,15,10/15
+transition,wrong_to_correct,B00 sai / T02B đúng,black_border_or_vignette,không chắc,0,15,0/15
+transition,wrong_to_correct,B00 sai / T02B đúng,glare_or_reflection,có,0,15,0/15
+transition,wrong_to_correct,B00 sai / T02B đúng,glare_or_reflection,không,14,15,14/15
+transition,wrong_to_correct,B00 sai / T02B đúng,glare_or_reflection,không chắc,1,15,1/15
+transition,wrong_to_correct,B00 sai / T02B đúng,sharpness,nét,15,15,15/15
+transition,wrong_to_correct,B00 sai / T02B đúng,sharpness,hơi mờ,0,15,0/15
+transition,wrong_to_correct,B00 sai / T02B đúng,sharpness,mờ,0,15,0/15
+transition,wrong_to_correct,B00 sai / T02B đúng,sharpness,không chắc,0,15,0/15
+transition,wrong_to_correct,B00 sai / T02B đúng,lesion_touches_edge,có,0,15,0/15
+transition,wrong_to_correct,B00 sai / T02B đúng,lesion_touches_edge,không,15,15,15/15
+transition,wrong_to_correct,B00 sai / T02B đúng,lesion_touches_edge,không chắc,0,15,0/15
+transition,wrong_to_correct,B00 sai / T02B đúng,aspect_distortion_after_resize,có,8,15,8/15
+transition,wrong_to_correct,B00 sai / T02B đúng,aspect_distortion_after_resize,không,7,15,7/15
+transition,wrong_to_correct,B00 sai / T02B đúng,aspect_distortion_after_resize,không chắc,0,15,0/15
+transition,wrong_to_wrong,Cả hai sai,hair,có,4,14,4/14
+transition,wrong_to_wrong,Cả hai sai,hair,không,10,14,10/14
+transition,wrong_to_wrong,Cả hai sai,hair,không chắc,0,14,0/14
+transition,wrong_to_wrong,Cả hai sai,ruler_or_ink,có,6,14,6/14
+transition,wrong_to_wrong,Cả hai sai,ruler_or_ink,không,7,14,7/14
+transition,wrong_to_wrong,Cả hai sai,ruler_or_ink,không chắc,1,14,1/14
+transition,wrong_to_wrong,Cả hai sai,black_border_or_vignette,có,9,14,9/14
+transition,wrong_to_wrong,Cả hai sai,black_border_or_vignette,không,5,14,5/14
+transition,wrong_to_wrong,Cả hai sai,black_border_or_vignette,không chắc,0,14,0/14
+transition,wrong_to_wrong,Cả hai sai,glare_or_reflection,có,0,14,0/14
+transition,wrong_to_wrong,Cả hai sai,glare_or_reflection,không,13,14,13/14
+transition,wrong_to_wrong,Cả hai sai,glare_or_reflection,không chắc,1,14,1/14
+transition,wrong_to_wrong,Cả hai sai,sharpness,nét,14,14,14/14
+transition,wrong_to_wrong,Cả hai sai,sharpness,hơi mờ,0,14,0/14
+transition,wrong_to_wrong,Cả hai sai,sharpness,mờ,0,14,0/14
+transition,wrong_to_wrong,Cả hai sai,sharpness,không chắc,0,14,0/14
+transition,wrong_to_wrong,Cả hai sai,lesion_touches_edge,có,0,14,0/14
+transition,wrong_to_wrong,Cả hai sai,lesion_touches_edge,không,14,14,14/14
+transition,wrong_to_wrong,Cả hai sai,lesion_touches_edge,không chắc,0,14,0/14
+transition,wrong_to_wrong,Cả hai sai,aspect_distortion_after_resize,có,5,14,5/14
+transition,wrong_to_wrong,Cả hai sai,aspect_distortion_after_resize,không,9,14,9/14
+transition,wrong_to_wrong,Cả hai sai,aspect_distortion_after_resize,không chắc,0,14,0/14
+transition,correct_to_correct,Cả hai đúng (đối chứng),hair,có,4,8,4/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),hair,không,4,8,4/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),hair,không chắc,0,8,0/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),ruler_or_ink,có,0,8,0/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),ruler_or_ink,không,8,8,8/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),ruler_or_ink,không chắc,0,8,0/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),black_border_or_vignette,có,3,8,3/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),black_border_or_vignette,không,5,8,5/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),black_border_or_vignette,không chắc,0,8,0/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),glare_or_reflection,có,0,8,0/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),glare_or_reflection,không,7,8,7/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),glare_or_reflection,không chắc,1,8,1/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),sharpness,nét,8,8,8/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),sharpness,hơi mờ,0,8,0/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),sharpness,mờ,0,8,0/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),sharpness,không chắc,0,8,0/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),lesion_touches_edge,có,0,8,0/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),lesion_touches_edge,không,7,8,7/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),lesion_touches_edge,không chắc,1,8,1/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),aspect_distortion_after_resize,có,4,8,4/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),aspect_distortion_after_resize,không,4,8,4/8
+transition,correct_to_correct,Cả hai đúng (đối chứng),aspect_distortion_after_resize,không chắc,0,8,0/8

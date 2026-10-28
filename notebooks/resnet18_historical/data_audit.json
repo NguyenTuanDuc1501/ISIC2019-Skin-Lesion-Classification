@@ -1,0 +1,25 @@
+{
+  "images_original": 25331,
+  "images_used": 25327,
+  "conflicting_hash_groups": 2,
+  "excluded_conflicting_images": 4,
+  "original_exact_byte_duplicates": 50,
+  "folder_label_mismatches": 0,
+  "missing_lesion_id_original": 2084,
+  "missing_lesion_id": 2084,
+  "exact_byte_duplicates_kept": 48,
+  "hash_groups_merged": 9,
+  "csv_sha256": {
+    "ISIC_2019_Training_GroundTruth.csv": "aa88e9638fe4df9ef330dc4ba22fa4bd475c44af692fffb870c73091ab25cdcd",
+    "ISIC_2019_Training_Metadata.csv": "d93994a8ed201d474de9a7af7e17ec30929cbc4a5220659ecbde17cbe83e9316"
+  },
+  "split_counts": {
+    "train": 15140,
+    "val": 5102,
+    "test": 5085
+  },
+  "known_lesion_and_exact_byte_groups_disjoint": true,
+  "patient_independence_verified": false,
+  "near_duplicates_fully_checked": false,
+  "previous_efficientnet_split_differs_after_cleaning": true
+}

@@ -1,0 +1,23 @@
+experiment_id,group,method_name,notebook_script,config_file,results_folder_file,report_table_section
+DATA_AUDIT,Kiem toan du lieu,EDA & Leakage Check,notebooks/data_audit/ISIC2019_AutoAudit_Artifact_Errors_v1_0.ipynb,configs/historical_data_audit.json,manifests/split_manifest.csv,Bang 1 - Kiem toan du lieu va phan chia tap
+B00,Baseline,B00_R50_CE,notebooks/baseline_augmentation/locked_t02ab.ipynb,configs/candidate_protocol_lock.json,results/experiments_seed42.csv,Bang 2 - So sanh phuong an huan luyen Seed 42
+T02A,Augmentation,T02A_HV_R50 (Lat H/V),notebooks/baseline_augmentation/locked_t02ab.ipynb,configs/candidate_protocol_lock.json,results/experiments_seed42.csv,Bang 2 - So sanh phuong an huan luyen Seed 42
+T02B,Mo hinh chot,T02B_D4_R50 (Quay lat 8 phep),notebooks/00_Bao_cao_va_demo.ipynb,configs/candidate_protocol_lock.json,results/T02B_history.csv,Bang 2 - So sanh phuong an huan luyen Seed 42
+P01,Tien xu ly,Giu ty le & Padding,notebooks/preprocessing_r50/p01-gi-t-l-khung-v-padding.ipynb,src/runner.py,results/PREPROCESSING_OPTIONS.csv,Bang 3 - Khao sat 10 phuong an tien xu ly
+P02,Tien xu ly,Cat vien den gan bien,notebooks/preprocessing_r50/p02-c-t-d-i-vi-n-g-n-en.ipynb,src/runner.py,results/PREPROCESSING_OPTIONS.csv,Bang 3 - Khao sat 10 phuong an tien xu ly
+P03,Tien xu ly,Phat hien long & Inpainting,notebooks/preprocessing_r50/p03-ph-t-hi-n-l-ng-v-inpainting.ipynb,src/runner.py,results/PREPROCESSING_OPTIONS.csv,Bang 3 - Khao sat 10 phuong an tien xu ly
+P04,Tien xu ly,Shades of Gray (SoG),notebooks/preprocessing_r50/p04-shades-of-gray.ipynb,src/runner.py,results/PREPROCESSING_OPTIONS.csv,Bang 3 - Khao sat 10 phuong an tien xu ly
+P05,Tien xu ly,CLAHE kenh L (Lab),notebooks/preprocessing_r50/p05-clahe-tr-n-k-nh-s-ng-lab.ipynb,src/runner.py,results/PREPROCESSING_OPTIONS.csv,Bang 3 - Khao sat 10 phuong an tien xu ly
+P06,Tien xu ly,Gamma kenh L (Lab),notebooks/preprocessing_r50/p06-gamma-tr-n-k-nh-s-ng-lab.ipynb,src/runner.py,results/PREPROCESSING_OPTIONS.csv,Bang 3 - Khao sat 10 phuong an tien xu ly
+P07,Tien xu ly,Loc Bilateral,notebooks/preprocessing_r50/p07-l-c-bilateral.ipynb,src/runner.py,results/PREPROCESSING_OPTIONS.csv,Bang 3 - Khao sat 10 phuong an tien xu ly
+P08,Tien xu ly,Xu ly mang phan sang nhoe,notebooks/preprocessing_r50/p08-x-l-m-ph-n-s-ng-nh.ipynb,src/runner.py,results/PREPROCESSING_OPTIONS.csv,Bang 3 - Khao sat 10 phuong an tien xu ly
+P09,Tien xu ly,Hieu chinh sang cuc bo,notebooks/preprocessing_r50/p09-hi-u-ch-nh-s-ng-c-c-b.ipynb,src/runner.py,results/PREPROCESSING_OPTIONS.csv,Bang 3 - Khao sat 10 phuong an tien xu ly
+P10,Tien xu ly,Crop theo vung Otsu,notebooks/preprocessing_r50/p10-crop-theo-v-ng-otsu-xu-t.ipynb,src/runner.py,results/PREPROCESSING_OPTIONS.csv,Bang 3 - Khao sat 10 phuong an tien xu ly
+L01,Ham mat mat,Weighted Cross-Entropy (WCE),notebooks/training_strategies/L01_WCE_SQRT_T02B_R50.ipynb,configs/candidate_protocol_lock.json,results/experiments_seed42.csv,Bang 2 - So sanh phuong an huan luyen Seed 42
+S01,Lay mau can bang,Balanced Sampler v1.2,notebooks/training_strategies/S01_BALANCED_SAMPLER_R50.ipynb,configs/candidate_protocol_lock.json,results/experiments_seed42.csv,Bang 2 - So sanh phuong an huan luyen Seed 42
+F01,Toi uu hoa,Differential Learning Rate,src/runner.py,configs/candidate_protocol_lock.json,results/experiments_seed42.csv,Bang 2 - So sanh phuong an huan luyen Seed 42
+M01,Kien truc doi chieu,EfficientNet-B0 D4 CE,src/runner.py,configs/candidate_protocol_lock.json,results/experiments_seed42.csv,Bang 2 - So sanh phuong an huan luyen Seed 42
+R02,Xac nhan seed moi,Danh gia Seed 43 & Seed 44,notebooks/paired_seeds/RESULT_REPORT.md,configs/candidate_protocol_lock.json,results/r02/NEW_SEEDS_MEAN_SD.csv,Bang 4 - Xac nhan seed moi va Bootstrap CI
+E01_E02,Phan tich loi,Quan sat va phan loai loi 52 anh,notebooks/error_analysis/E02_FINAL_REPORT.md,configs/historical_data_audit.json,results/visual_review_final.csv,Bang 5 - Phan loai loi va gioi han mo hinh
+FINAL_EVAL,Danh gia cuoi,Test doc lap noi bo,notebooks/final_evaluation/evaluation_source.py,configs/FINAL_EVAL_CONFIG.json,results/test_report/confusion_matrix.csv,Bang 6 - Ket qua kiem thu cuoi cung
+R18_HIST,Khao sat truoc,ResNet18 khao sat ban dau,notebooks/resnet18_historical/TOM_TAT_KET_QUA.md,notebooks/resnet18_historical/config.json,notebooks/resnet18_historical/metrics.json,Bang phu luc - Khao sat kien truc ban dau

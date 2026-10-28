@@ -1,0 +1,91 @@
+{
+  "mode": "ISIC2019_full_resnet18",
+  "test": {
+    "accuracy": 0.7050147492625368,
+    "balanced_accuracy": 0.6009977435936361,
+    "macro_f1": 0.5809962837078702,
+    "macro_recall": 0.6009977435936361
+  },
+  "majority_baseline": {
+    "accuracy": 0.5054080629301868,
+    "macro_f1": 0.08393207054212933,
+    "balanced_accuracy": 0.125
+  },
+  "test_loss": 1.3245222204201212,
+  "best_epoch": 8,
+  "best_val_macro_f1": 0.5818480426341098,
+  "counts": {
+    "train": {
+      "MEL": 2721,
+      "NV": 7689,
+      "BCC": 2006,
+      "AK": 493,
+      "BKL": 1573,
+      "DF": 152,
+      "VASC": 161,
+      "SCC": 345
+    },
+    "val": {
+      "MEL": 927,
+      "NV": 2614,
+      "BCC": 634,
+      "AK": 200,
+      "BKL": 513,
+      "DF": 34,
+      "VASC": 38,
+      "SCC": 142
+    },
+    "test": {
+      "MEL": 872,
+      "NV": 2570,
+      "BCC": 683,
+      "AK": 174,
+      "BKL": 538,
+      "DF": 53,
+      "VASC": 54,
+      "SCC": 141
+    }
+  },
+  "audit": {
+    "images_original": 25331,
+    "images_used": 25327,
+    "conflicting_hash_groups": 2,
+    "excluded_conflicting_images": 4,
+    "original_exact_byte_duplicates": 50,
+    "folder_label_mismatches": 0,
+    "missing_lesion_id_original": 2084,
+    "missing_lesion_id": 2084,
+    "exact_byte_duplicates_kept": 48,
+    "hash_groups_merged": 9,
+    "csv_sha256": {
+      "ISIC_2019_Training_GroundTruth.csv": "aa88e9638fe4df9ef330dc4ba22fa4bd475c44af692fffb870c73091ab25cdcd",
+      "ISIC_2019_Training_Metadata.csv": "d93994a8ed201d474de9a7af7e17ec30929cbc4a5220659ecbde17cbe83e9316"
+    },
+    "split_counts": {
+      "train": 15140,
+      "val": 5102,
+      "test": 5085
+    },
+    "known_lesion_and_exact_byte_groups_disjoint": true,
+    "patient_independence_verified": false,
+    "near_duplicates_fully_checked": false,
+    "previous_efficientnet_split_differs_after_cleaning": true
+  },
+  "config": {
+    "seed": 42,
+    "epochs": 8,
+    "patience": 3,
+    "batch_size": 32,
+    "img_size": 224,
+    "num_workers": 2,
+    "learning_rate": 0.0001,
+    "weight_decay": 0.0001,
+    "model": "resnet18",
+    "pretrained": "ImageNet IMAGENET1K_V1",
+    "device": "cuda",
+    "torch": "2.10.0+cu128",
+    "torchvision": "0.25.0+cu128",
+    "sklearn": "1.6.1",
+    "run_id": "20260927_131517_538787_resnet18"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "method": "T02B_D4_R50",
+  "seed": 42,
+  "checkpoint_sha": "f7e9f6eace2c9e6dbf91326b7e2a891966687295b7ad726fd88d9682fa0199ad",
+  "labels": [
+    "MEL",
+    "NV",
+    "BCC",
+    "AK",
+    "BKL",
+    "DF",
+    "VASC",
+    "SCC"
+  ],
+  "split": "val",
+  "resize": "RGB bilinear224",
+  "normalization": "ImageNet mean/std",
+  "augmentation": false,
+  "TTA": false,
+  "AMP": false,
+  "shuffle": false,
+  "batch": 32,
+  "workers": 2,
+  "model_eval": true,
+  "inference_mode": true,
+  "threshold": "argmax; no calibration",
+  "train": false,
+  "CHA_approval_note": "",
+  "source_sha": "9c8eb65923ec0a7a554919ace11746ee6c35b13963c970614464bac10bfa6880",
+  "split_manifest_sha": "38a5a9aca907d56685bddfcd874e162d8bf2c141a7247025410eeeee6bcf522a"
+}

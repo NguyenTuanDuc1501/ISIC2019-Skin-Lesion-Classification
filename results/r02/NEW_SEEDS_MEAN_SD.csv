@@ -1,0 +1,10 @@
+method,metric,n_seeds,seeds,mean,sample_SD,mean_percent_or_pp,sample_SD_pp,source,scope
+B00_R50,accuracy,2,"43,44",0.7443875541551792,0.007797947961096249,74.43875541551792,0.7797947961096249,SEED_RESULTS.csv; matched training seed,"descriptive only, no CI across training seeds"
+T02B_D4_R50,accuracy,2,"43,44",0.7522646711303662,0.02395084016622417,75.22646711303662,2.395084016622417,SEED_RESULTS.csv; matched training seed,"descriptive only, no CI across training seeds"
+T02B_minus_B00,accuracy,2,"43,44",0.00787711697518706,0.03174878812732042,0.787711697518706,3.1748788127320418,SEED_RESULTS.csv; matched training seed,"descriptive only, no CI across training seeds"
+B00_R50,balanced_accuracy,2,"43,44",0.5413313829725583,0.016010251662484667,54.13313829725583,1.6010251662484667,SEED_RESULTS.csv; matched training seed,"descriptive only, no CI across training seeds"
+T02B_D4_R50,balanced_accuracy,2,"43,44",0.5821109946153119,0.014704045097690018,58.21109946153119,1.4704045097690017,SEED_RESULTS.csv; matched training seed,"descriptive only, no CI across training seeds"
+T02B_minus_B00,balanced_accuracy,2,"43,44",0.04077961164275362,0.030714296760174686,4.077961164275362,3.0714296760174684,SEED_RESULTS.csv; matched training seed,"descriptive only, no CI across training seeds"
+B00_R50,macro_f1,2,"43,44",0.5670198756978757,0.008783218374877479,56.70198756978757,0.8783218374877478,SEED_RESULTS.csv; matched training seed,"descriptive only, no CI across training seeds"
+T02B_D4_R50,macro_f1,2,"43,44",0.5888439243981022,0.015413678109798025,58.88439243981022,1.5413678109798026,SEED_RESULTS.csv; matched training seed,"descriptive only, no CI across training seeds"
+T02B_minus_B00,macro_f1,2,"43,44",0.021824048700226417,0.024196896484675504,2.1824048700226415,2.4196896484675503,SEED_RESULTS.csv; matched training seed,"descriptive only, no CI across training seeds"

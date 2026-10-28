@@ -1,0 +1,12 @@
+{
+  "task": "FINAL_EVAL_PREP",
+  "version": "1.0",
+  "RUN_TRAIN": false,
+  "RUN_FINAL_TEST": true,
+  "checkpoint_sha": "f7e9f6eace2c9e6dbf91326b7e2a891966687295b7ad726fd88d9682fa0199ad",
+  "PROB_ATOL": 1e-06,
+  "PROB_RTOL": 0.0,
+  "METRIC_ATOL": 1e-08,
+  "VAL_LOSS_ATOL": 1e-06,
+  "source_sha": "9c8eb65923ec0a7a554919ace11746ee6c35b13963c970614464bac10bfa6880"
+}

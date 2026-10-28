@@ -9,7 +9,7 @@ __pycache__/
 venv/
 env/
 
-# Model weights and checkpoints (tránh đẩy file dung lượng lớn >100MB lên GitHub)
+# Large binaries, models and checkpoints (>100MB)
 *.pt
 *.pth
 *.h5
@@ -22,3 +22,13 @@ env/
 *.tar.gz
 data/
 dataset/
+datasets/
+input/
+output/
+
+# Heavy local training experiments folder
+10_phuongan_ResNet50_train_thucnghiem/
+
+# OS files
+.DS_Store
+Thumbs.db

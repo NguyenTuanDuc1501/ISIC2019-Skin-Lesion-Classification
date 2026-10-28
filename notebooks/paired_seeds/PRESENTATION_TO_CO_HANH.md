@@ -1,0 +1,3 @@
+# Đoạn trình bày với cô Hạnh
+
+“Thưa cô, em kiểm tra lại D4 bằng cách so B00 và T02B trên cùng split, cùng seed và cùng cấu hình; chỉ khác D4 ở ảnh train. Ngoài seed42 thăm dò, em chạy xác nhận thêm seed43 và44, giữ nguyên tất cả kết quả. Macro-F1 của D4 cao hơn B00 ở cả ba seed đã quan sát. Trên hai seed mới, chênh lệch lần lượt là+0.4714 và+3.8934điểm phần trăm; trung bình+2.1824, sample SD2.4197điểm phần trăm. Tuy nhiên, hai khoảng tin cậy bootstrap theo group đều chứa0 và mức tăng dao động, nên em chưa kết luận D4 luôn cải thiện. Riêng seed43, accuracy giảm dù macro-F1 và balanced accuracy tăng. Em giữ T02B hiện hành, chưa mở thí nghiệm mới. Các seed vẫn dùng chung validation, nên đây không phải các tập đánh giá độc lập; test cuối chưa được sử dụng.”

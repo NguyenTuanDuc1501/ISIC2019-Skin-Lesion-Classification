@@ -1,0 +1,9 @@
+{
+  "original": 25331,
+  "retained": 25327,
+  "excluded_conflicting_images": 4,
+  "missing_lesion_id": 2084,
+  "exact_duplicate_excess": 48,
+  "groundtruth_sha": "aa88e9638fe4df9ef330dc4ba22fa4bd475c44af692fffb870c73091ab25cdcd",
+  "metadata_sha": "d93994a8ed201d474de9a7af7e17ec30929cbc4a5220659ecbde17cbe83e9316"
+}

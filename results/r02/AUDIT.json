@@ -1,0 +1,2608 @@
+{
+  "status": "PASS_LISTED_CHECKS",
+  "checks": [
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/CURRENT_STATUS.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/HISTORICAL_SEED42.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/HISTORICAL_SEED42_DELTA.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/NEW_SEEDS_MEAN_SD.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/NEW_SEEDS_RUNS.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/PAIRED_DELTA_BY_SEED.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/PROJECT_STATE.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/PROTOCOL.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/RECOVERY_PROTOCOL.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/RESULTS_REPORT.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/RUN_RESULTS.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/data_preflight.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/environment_actual.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/history/R02_v1_0/EXPECTED_OLD_FILES.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/history/R02_v1_0/PROJECT_STATE.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/history/R02_v1_0/PROTOCOL.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/history/R02_v1_0/STOP.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/history/R02_v1_0/data_preflight.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/history/R02_v1_0/environment_actual.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/history/R02_v1_0/implementation.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/history/R02_v1_0/preflight_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/implementation.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/preflight_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/recovery_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/recovery_dispatch.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/acceptance_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/best_resnet50.pt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/complete.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/configuration.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/history.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/initial_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/learning_curves.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/run_start.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/source.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/val_confusion.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/val_confusion.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/val_metrics.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/val_per_class.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50/val_predictions.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/B00_R50_protocol_lock.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/acceptance_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/best_resnet50.pt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/complete.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/configuration.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/history.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/initial_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/learning_curves.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/run_start.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/source.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/val_confusion.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/val_confusion.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/val_metrics.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/val_per_class.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50/val_predictions.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43/T02B_D4_R50_protocol_lock.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43_bootstrap_delta.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43_bootstrap_draws.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_43_group_support.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/acceptance_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/best_resnet50.pt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/complete.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/configuration.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/history.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/initial_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/learning_curves.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/run_start.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/source.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/val_confusion.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/val_confusion.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/val_metrics.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/val_per_class.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50/val_predictions.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/B00_R50_protocol_lock.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/acceptance_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/best_resnet50.pt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/complete.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/configuration.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/history.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/initial_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/learning_curves.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/run_start.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/source.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/val_confusion.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/val_confusion.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/val_metrics.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/val_per_class.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50/val_predictions.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44/T02B_D4_R50_protocol_lock.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44_bootstrap_delta.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44_bootstrap_draws.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/seed_44_group_support.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/split_manifest.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/worker_seed_43.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/trained_output/R02_RECOVERY_v1_1_preflight02/worker_seed_44.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/CURRENT_STATUS.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/HISTORICAL_SEED42.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/PROJECT_STATE.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/PROTOCOL.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/RECOVERY_PROTOCOL.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/data_preflight.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/environment_actual.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/implementation.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/preflight_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/recovery_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/split_manifest.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/worker_seed_43.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checksum:x/preflight/R02_RECOVERY_v1_1_preflight02/worker_seed_44.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:CURRENT_STATUS.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:HISTORICAL_SEED42.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:HISTORICAL_SEED42_DELTA.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:NEW_SEEDS_MEAN_SD.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:NEW_SEEDS_RUNS.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:PAIRED_DELTA_BY_SEED.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:PROJECT_STATE.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:PROTOCOL.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:RECOVERY_PROTOCOL.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:RESULTS_REPORT.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:RUN_RESULTS.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:data_preflight.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:environment_actual.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:history/R02_v1_0/EXPECTED_OLD_FILES.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:history/R02_v1_0/PROJECT_STATE.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:history/R02_v1_0/PROTOCOL.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:history/R02_v1_0/STOP.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:history/R02_v1_0/data_preflight.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:history/R02_v1_0/environment_actual.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:history/R02_v1_0/implementation.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:history/R02_v1_0/preflight_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:implementation.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:preflight_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:recovery_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:recovery_dispatch.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/acceptance_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/complete.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/configuration.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/history.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/initial_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/learning_curves.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/run_start.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/source.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/val_confusion.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/val_confusion.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/val_metrics.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/val_per_class.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50/val_predictions.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/B00_R50_protocol_lock.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/acceptance_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/complete.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/configuration.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/history.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/initial_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/learning_curves.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/run_start.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/source.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/val_confusion.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/val_confusion.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/val_metrics.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/val_per_class.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50/val_predictions.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43/T02B_D4_R50_protocol_lock.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43_bootstrap_delta.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43_bootstrap_draws.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_43_group_support.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/acceptance_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/complete.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/configuration.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/history.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/initial_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/learning_curves.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/run_start.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/source.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/val_confusion.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/val_confusion.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/val_metrics.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/val_per_class.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50/val_predictions.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/B00_R50_protocol_lock.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/acceptance_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/complete.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/configuration.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/history.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/initial_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/learning_curves.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/run_start.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/source.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/val_confusion.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/val_confusion.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/val_metrics.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/val_per_class.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50/val_predictions.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44/T02B_D4_R50_protocol_lock.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44_bootstrap_delta.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44_bootstrap_draws.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:seed_44_group_support.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:split_manifest.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:worker_seed_43.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports_checksum:worker_seed_44.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reports90_full94",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "R01_hash",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "L01_addendum_hash",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:AUDIT.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:CONFIG_COMPARISON.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:CSV_QA.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:EVIDENCE.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:EXPERIMENT_TABLE.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:INPUT_INVENTORY.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:NEXT_STEP_PROPOSAL.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:PER_CLASS_COMPARISON.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:PROJECT_STATE.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:PROPOSAL_EVIDENCE.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:QA_VISUAL.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:SOURCE_GUIDE.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:SYNTHESIS_REPORT.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:bootstrap_locked.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:charts/loss_curves_notion_agent_chart.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:charts/loss_curves_spec.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:charts/macro_curves_notion_agent_chart.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:charts/macro_curves_spec.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:charts/results_notion_agent_chart.html",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:charts/results_spec.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:src/render_report.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:src/synthesize.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/CHART_VERIFIER_LOG.txt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/CI_RECHECK.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/CURVE_DIAGNOSTICS.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/D4_vs_B00_bootstrap.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/ERROR_OVERLAP_DESCRIPTIVE.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/PROFILE_SUMMARIES.txt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/bootstrap_draws_B00_R50_CE_vs_T02B.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/bootstrap_draws_F01_DIFFLR_T02B_R50_vs_T02B.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/bootstrap_draws_M01_EFFICIENTNET_B0_D4_CE_vs_T02B.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/bootstrap_draws_P04SOG_T02B_R50_vs_T02B.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/bootstrap_draws_S01_BALANCED_SAMPLER_T02B_R50_vs_T02B.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/bootstrap_draws_T02A_HV_R50_vs_T02B.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/confusion_B00_R50_CE.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/confusion_F01_DIFFLR_T02B_R50.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/confusion_M01_EFFICIENTNET_B0_D4_CE.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/confusion_P04SOG_T02B_R50.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/confusion_S01_BALANCED_SAMPLER_T02B_R50.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/confusion_T02A_HV_R50.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/confusion_T02B_D4_R50.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/per_class_B00_R50_CE.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/per_class_F01_DIFFLR_T02B_R50.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/per_class_M01_EFFICIENTNET_B0_D4_CE.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/per_class_P04SOG_T02B_R50.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/per_class_S01_BALANCED_SAMPLER_T02B_R50.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/per_class_T02A_HV_R50.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:r01:tables/per_class_T02B_D4_R50.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:l01_addendum:CONFIG_COMPARISON.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:l01_addendum:EXPERIMENT_TABLE.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:l01_addendum:INPUT_INVENTORY.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:l01_addendum:L01_CI_RECOMPUTED.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:l01_addendum:L01_CONFUSION.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:l01_addendum:L01_VERIFICATION.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:l01_addendum:PER_CLASS_COMPARISON.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:l01_addendum:PROJECT_STATE.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:l01_addendum:R01_L01_ADDENDUM.md",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "package_checksum:l01_addendum:l01_addendum.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "recovery_source_pinned",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "notebook_embedded_source_equals_executed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "notebook_flags_train_true_test_false",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "notebook_no_error_outputs",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "external_executed_source_equal",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "historical_source_pinned",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:train_experiment",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:evaluate",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:R02Dataset",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:make_loader",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:seed_worker",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:reset_seed",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:build_model",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:finite",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:t02_geometry",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:t02_bootstrap",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:summarize_new_seeds",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "algorithm_unchanged:export_evaluation",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50_protocol_lock.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50_protocol_lock.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/acceptance_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/acceptance_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/best_resnet50.pt",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/complete.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/complete.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/configuration.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/configuration.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/history.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/history.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/initial_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/initial_audit.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/learning_curves.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/learning_curves.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/run_start.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/run_start.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/source.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/source.py",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/val_confusion.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/val_confusion.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/val_confusion.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/val_confusion.png",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/val_metrics.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/val_metrics.json",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/val_per_class.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/val_per_class.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_hash_matches_history:seed_43/B00_R50/val_predictions.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "reused_reports_hash_history:seed_43/B00_R50/val_predictions.csv",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "old_STOP_retained",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "one_REUSE_three_TRAIN_FRESH",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "current_complete",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "preflight_not_train_only",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "preflight_source_equal",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "split_sha_locked",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "manifest_25327_unique",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no_split_leak:image",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no_split_leak:group",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no_split_leak:file_sha256",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "validation2539groups1392",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "labels_encode_match",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "lock_hash:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "config_bytes:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "source_lock:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checkpoint_direct_bytes:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction1to1:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:B00_R50/43:image",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:B00_R50/43:group",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:B00_R50/43:file_sha256",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:B00_R50/43:true_label",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_labels:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "probabilities:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:B00_R50/43:accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:B00_R50/43:accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:B00_R50/43:balanced_accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:B00_R50/43:balanced_accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:B00_R50/43:macro_f1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:B00_R50/43:macro_f1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "independent_F1:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "independent_accuracy:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "confusion:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "perclass:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "history_finite_contiguous:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "LR_cosine_before_scheduler:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:5",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:6",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:7",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:8",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:9",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:10",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:11",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:12",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:13",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:14",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/43:15",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "best_stop:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "best_metric_matches_checkpoint_predictions:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "init_lock_audit:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "fresh_optimizer_loader_seed:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "acceptance_audit:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no_test_AMP_TTA:B00_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "lock_hash:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "config_bytes:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "source_lock:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checkpoint_direct_bytes:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction1to1:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:T02B_D4_R50/43:image",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:T02B_D4_R50/43:group",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:T02B_D4_R50/43:file_sha256",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:T02B_D4_R50/43:true_label",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_labels:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "probabilities:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:T02B_D4_R50/43:accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:T02B_D4_R50/43:accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:T02B_D4_R50/43:balanced_accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:T02B_D4_R50/43:balanced_accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:T02B_D4_R50/43:macro_f1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:T02B_D4_R50/43:macro_f1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "independent_F1:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "independent_accuracy:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "confusion:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "perclass:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "history_finite_contiguous:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "LR_cosine_before_scheduler:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/43:1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/43:2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/43:3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/43:4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/43:5",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/43:6",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/43:7",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/43:8",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/43:9",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/43:10",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/43:11",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "best_stop:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "best_metric_matches_checkpoint_predictions:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "init_lock_audit:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "fresh_optimizer_loader_seed:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "acceptance_audit:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no_test_AMP_TTA:T02B_D4_R50/43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "lock_hash:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "config_bytes:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "source_lock:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checkpoint_direct_bytes:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction1to1:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:B00_R50/44:image",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:B00_R50/44:group",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:B00_R50/44:file_sha256",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:B00_R50/44:true_label",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_labels:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "probabilities:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:B00_R50/44:accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:B00_R50/44:accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:B00_R50/44:balanced_accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:B00_R50/44:balanced_accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:B00_R50/44:macro_f1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:B00_R50/44:macro_f1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "independent_F1:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "independent_accuracy:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "confusion:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "perclass:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "history_finite_contiguous:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "LR_cosine_before_scheduler:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:5",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:6",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:7",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:8",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:9",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:10",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:11",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:12",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:13",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:14",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:15",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:B00_R50/44:16",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "best_stop:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "best_metric_matches_checkpoint_predictions:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "init_lock_audit:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "fresh_optimizer_loader_seed:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "acceptance_audit:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no_test_AMP_TTA:B00_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "lock_hash:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "config_bytes:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "source_lock:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "checkpoint_direct_bytes:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction1to1:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:T02B_D4_R50/44:image",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:T02B_D4_R50/44:group",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:T02B_D4_R50/44:file_sha256",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_manifest:T02B_D4_R50/44:true_label",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "prediction_labels:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "probabilities:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:T02B_D4_R50/44:accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:T02B_D4_R50/44:accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:T02B_D4_R50/44:balanced_accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:T02B_D4_R50/44:balanced_accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "complete_metrics:T02B_D4_R50/44:macro_f1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "val_metrics:T02B_D4_R50/44:macro_f1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "independent_F1:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "independent_accuracy:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "confusion:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "perclass:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "history_finite_contiguous:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "LR_cosine_before_scheduler:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/44:1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/44:2",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/44:3",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/44:4",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/44:5",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/44:6",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/44:7",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/44:8",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/44:9",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/44:10",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "patience_no_extra:T02B_D4_R50/44:11",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "best_stop:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "best_metric_matches_checkpoint_predictions:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "init_lock_audit:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "fresh_optimizer_loader_seed:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "acceptance_audit:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "no_test_AMP_TTA:T02B_D4_R50/44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "run_table_source:accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "run_table_source:balanced_accuracy",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "run_table_source:macro_f1",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "config_seed:(43, 'B00_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "full_scientific_baseline_same:(43, 'B00_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "augmentation_only_expected:(43, 'B00_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "config_seed:(43, 'T02B_D4_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "full_scientific_baseline_same:(43, 'T02B_D4_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "augmentation_only_expected:(43, 'T02B_D4_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "config_seed:(44, 'B00_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "full_scientific_baseline_same:(44, 'B00_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "augmentation_only_expected:(44, 'B00_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "config_seed:(44, 'T02B_D4_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "full_scientific_baseline_same:(44, 'T02B_D4_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "augmentation_only_expected:(44, 'T02B_D4_R50')",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "science_fixed_fields",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "pair_init_same:43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "bootstrap_CI:43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "bootstrap_all_draws:43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "group_support:43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "CHA_numbers_comparison:43",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "pair_init_same:44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "bootstrap_CI:44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "bootstrap_all_draws:44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "group_support:44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "CHA_numbers_comparison:44",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "mean_SD_source",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "CHA_mean_SD",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "historical42_source_consistency:B00_R50",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "historical42_source_consistency:T02B_D4_R50",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "seed43_accuracy_reversal",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "both_new_CIs_contain_zero",
+      "status": "PASS",
+      "detail": ""
+    },
+    {
+      "check": "both_new_macro_deltas_positive",
+      "status": "PASS",
+      "detail": ""
+    }
+  ],
+  "n_checks": 519,
+  "not_performed": [
+    "No test evaluation",
+    "Only two new training seeds; same reused validation, not independent evaluation set",
+    "Checkpoint hashes verified directly, not GPU reinference",
+    "Historical seed42 metrics carried from actual hash-verified R01/L01 packages, not all raw historical runs recomputed here",
+    "Image bytes not reopened in finalize; image verification recorded in executed preflight audits"
+  ]
+}

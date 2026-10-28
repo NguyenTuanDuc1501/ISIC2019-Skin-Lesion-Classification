@@ -1,0 +1,12 @@
+{
+  "method": "T02B_D4_R50",
+  "lock_sha": "47eacd88da997d3df482a2682f515847e5acb442b1257fd34e65f80eefab3559",
+  "initial_sha": "37a03a16d86fda7f927000366760327e605b16fc8b4cb6a565a4ce763fe9003c",
+  "checkpoint_sha": "f7e9f6eace2c9e6dbf91326b7e2a891966687295b7ad726fd88d9682fa0199ad",
+  "best_epoch": 14,
+  "completed_epochs": 16,
+  "seconds": 3441.46791073,
+  "accuracy": 0.7699881843245372,
+  "macro_f1": 0.603001846695718,
+  "balanced_accuracy": 0.5861047096670643
+}

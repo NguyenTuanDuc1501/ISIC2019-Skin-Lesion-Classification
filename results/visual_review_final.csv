@@ -1,0 +1,53 @@
+﻿review_id,gallery_page,image,group,true_label,B00_pred_label,T02B_pred_label,state_vi,orig_width,orig_height,resize_anisotropy_x_over_y,hair,ruler_or_ink,black_border_or_vignette,glare_or_reflection,sharpness,lesion_touches_edge,aspect_distortion_after_resize,other_notes,reviewer,review_date
+E02_001,1,ISIC_0060481,LESION_BCN_0001736,MEL,MEL,BKL,B00 đúng / T02B sai,1024,1024,1,không,không,không,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_002,1,ISIC_0065525,LESION_BCN_0003311,MEL,MEL,NV,B00 đúng / T02B sai,1024,1024,1,có,không,không,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_003,1,ISIC_0057199,LESION_BCN_0002532,MEL,NV,MEL,B00 sai / T02B đúng,1024,1024,1,có,không,không,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_004,1,ISIC_0029652,LESION_HAM_0006832,MEL,NV,MEL,B00 sai / T02B đúng,600,450,0.75,có,có,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_005,1,ISIC_0056389,LESION_BCN_0004062,MEL,NV,NV,Cả hai sai,1024,1024,1,không,không,không,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_006,1,ISIC_0011139,MISSING_ISIC_0011139,MEL,NV,NV,Cả hai sai,1024,768,0.75,không,có,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_007,1,ISIC_0060731,LESION_BCN_0003196,MEL,MEL,MEL,Cả hai đúng (đối chứng),1024,1024,1,không,không,có,không,nét,không chắc,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_008,1,ISIC_0033385,LESION_HAM_0001321,NV,NV,BKL,B00 đúng / T02B sai,600,450,0.75,không,không,không,không chắc,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_009,2,ISIC_0062249,LESION_BCN_0003021,NV,NV,MEL,B00 đúng / T02B sai,1024,1024,1,có,không,có,không,nét,có,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_010,2,ISIC_0025547,LESION_HAM_0003299,NV,BKL,NV,B00 sai / T02B đúng,600,450,0.75,có,không,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_011,2,ISIC_0030960,LESION_HAM_0000836,NV,BCC,NV,B00 sai / T02B đúng,600,450,0.75,có,không,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_012,2,ISIC_0015078_downsampled,MISSING_ISIC_0015078_downsampled,NV,BKL,BKL,Cả hai sai,1024,686,0.669921875,có,không,không,không chắc,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_013,2,ISIC_0062889,LESION_BCN_0002931,NV,BKL,BKL,Cả hai sai,1024,1024,1,không,không,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_014,2,ISIC_0015293_downsampled,MISSING_ISIC_0015293_downsampled,NV,NV,NV,Cả hai đúng (đối chứng),1024,681,0.665039063,không,không,không,không chắc,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_015,2,ISIC_0060109,LESION_BCN_0000883,BCC,BCC,AK,B00 đúng / T02B sai,1024,1024,1,không,không,không,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_016,2,ISIC_0064939,LESION_BCN_0000690,BCC,BCC,BKL,B00 đúng / T02B sai,1024,1024,1,không,không,không,không,nét,không,không,ảnh bị thiếu sáng,Nguyễn Tuấn Đức,2026-10-08
+E02_017,3,ISIC_0058278,LESION_BCN_0003158,BCC,NV,BCC,B00 sai / T02B đúng,1024,1024,1,có,có,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_018,3,ISIC_0026321,LESION_HAM_0006047,BCC,NV,BCC,B00 sai / T02B đúng,600,450,0.75,có,có,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_019,3,ISIC_0026395,LESION_HAM_0005382,BCC,NV,NV,Cả hai sai,600,450,0.75,không,có,có,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_020,3,ISIC_0067020,LESION_BCN_0000807,BCC,BKL,BKL,Cả hai sai,1024,1024,1,không,có,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_021,3,ISIC_0065752,LESION_BCN_0005432,BCC,BCC,BCC,Cả hai đúng (đối chứng),1024,1024,1,có,không,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_022,3,ISIC_0066885,LESION_BCN_0005140,AK,AK,MEL,B00 đúng / T02B sai,1024,1024,1,không,không,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_023,3,ISIC_0064151,LESION_BCN_0002449,AK,AK,SCC,B00 đúng / T02B sai,1024,1024,1,có,không,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_024,3,ISIC_0070311,LESION_BCN_0001102,AK,BKL,AK,B00 sai / T02B đúng,1024,1024,1,không,không,không,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_025,4,ISIC_0054209,LESION_BCN_0004832,AK,SCC,AK,B00 sai / T02B đúng,1024,1024,1,có,có,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_026,4,ISIC_0070116,LESION_BCN_0000559,AK,MEL,BKL,Cả hai sai,1024,1024,1,không,không,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_027,4,ISIC_0069125,LESION_BCN_0005057,AK,BKL,BKL,Cả hai sai,1024,1024,1,không,không chắc,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_028,4,ISIC_0027802,LESION_HAM_0006560,AK,AK,AK,Cả hai đúng (đối chứng),600,450,0.75,không,không,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_029,4,ISIC_0030346,LESION_HAM_0005146,BKL,BKL,NV,B00 đúng / T02B sai,600,450,0.75,không,có,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_030,4,ISIC_0031496,LESION_HAM_0001733,BKL,BKL,NV,B00 đúng / T02B sai,600,450,0.75,có,có,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_031,4,ISIC_0054840,LESION_BCN_0000722,BKL,BCC,BKL,B00 sai / T02B đúng,1024,1024,1,có,không,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_032,4,ISIC_0054521,LESION_BCN_0001173,BKL,NV,BKL,B00 sai / T02B đúng,1024,1024,1,có,không,không,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_033,5,ISIC_0060271,LESION_BCN_0003128,BKL,NV,NV,Cả hai sai,1024,1024,1,có,không,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_034,5,ISIC_0063355,LESION_BCN_0001699,BKL,MEL,MEL,Cả hai sai,1024,1024,1,không,không,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_035,5,ISIC_0069016,LESION_BCN_0004367,BKL,BKL,BKL,Cả hai đúng (đối chứng),1024,1024,1,có,không,không,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_036,5,ISIC_0053857,LESION_BCN_0001523,DF,DF,MEL,B00 đúng / T02B sai,1024,1024,1,không,không,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_037,5,ISIC_0027727,LESION_HAM_0004036,DF,BCC,DF,B00 sai / T02B đúng,600,450,0.75,có,có,có,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_038,5,ISIC_0032138,LESION_HAM_0005492,DF,SCC,DF,B00 sai / T02B đúng,600,450,0.75,có,có,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_039,5,ISIC_0069490,LESION_BCN_0004859,DF,BCC,BCC,Cả hai sai,1024,1024,1,có,có,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_040,5,ISIC_0028926,LESION_HAM_0000720,DF,BCC,BCC,Cả hai sai,600,450,0.75,không,có,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_041,6,ISIC_0027745,LESION_HAM_0000902,DF,DF,DF,Cả hai đúng (đối chứng),600,450,0.75,có,không,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_042,6,ISIC_0059484,LESION_BCN_0000811,VASC,VASC,BCC,B00 đúng / T02B sai,1024,1024,1,có,không,không,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_043,6,ISIC_0024662,LESION_HAM_0007532,VASC,VASC,NV,B00 đúng / T02B sai,600,450,0.75,không,không,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_044,6,ISIC_0028146,LESION_HAM_0005471,VASC,NV,VASC,B00 sai / T02B đúng,600,450,0.75,không,không,không,không chắc,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_045,6,ISIC_0032692,LESION_HAM_0000940,VASC,VASC,VASC,Cả hai đúng (đối chứng),600,450,0.75,có,không,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_046,6,ISIC_0054342,LESION_BCN_0002993,SCC,SCC,NV,B00 đúng / T02B sai,1024,1024,1,có,không,không,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_047,6,ISIC_0032329,LESION_HAM_0005027,SCC,SCC,MEL,B00 đúng / T02B sai,600,450,0.75,không,không,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_048,6,ISIC_0060623,LESION_BCN_0004265,SCC,BCC,SCC,B00 sai / T02B đúng,1024,1024,1,không,không,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_049,7,ISIC_0025831,LESION_HAM_0004012,SCC,BKL,SCC,B00 sai / T02B đúng,600,450,0.75,không,có,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_050,7,ISIC_0030387,LESION_HAM_0005650,SCC,NV,BKL,Cả hai sai,600,450,0.75,có,không,không,không,nét,không,có,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_051,7,ISIC_0066908,LESION_BCN_0000638,SCC,BCC,BCC,Cả hai sai,1024,1024,1,không,có,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08
+E02_052,7,ISIC_0053573,LESION_BCN_0000716,SCC,SCC,SCC,Cả hai đúng (đối chứng),1024,1024,1,không,không,có,không,nét,không,không,không ghi nhận thêm,Nguyễn Tuấn Đức,2026-10-08

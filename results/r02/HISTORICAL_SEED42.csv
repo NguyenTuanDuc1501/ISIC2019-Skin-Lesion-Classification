@@ -1,0 +1,3 @@
+seed,method,accuracy,macro_f1,balanced_accuracy,best_epoch,completed_epochs,source,phase
+42,B00_R50,0.7376920047262702,0.5521146626587701,0.5403517144351776,14,16,x/trained_output/R02_RECOVERY_v1_1_preflight02/HISTORICAL_SEED42.csv; x/l01_addendum/EXPERIMENT_TABLE.csv,exploratory_historical
+42,T02B_D4_R50,0.7699881843245372,0.603001846695718,0.5861047096670643,14,16,x/trained_output/R02_RECOVERY_v1_1_preflight02/HISTORICAL_SEED42.csv; x/l01_addendum/EXPERIMENT_TABLE.csv,exploratory_historical
